@@ -1,2 +1,2 @@
-# programming-assignment-1
+# Programming Assignment No. 1
 EXPLORATORY DATA ANALYSIS
